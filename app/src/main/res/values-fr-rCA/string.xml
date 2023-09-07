@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Laboratoire1-HugoMon</string>
+    <string name="your_password">Votre mot de passe</string>
+    <string name="your_email">Votre courriel</string>
+    <string name="show_your_password">Afficher votre mot de passe</string>
+    <string name="validate_password">VALIDER MOT DE PASSE</string>
+    <string name="password_and_email_valid">Mot de passe et courriel valide</string>
+    <string name="password_or_email_invalid">Mot de passe ou courriel invalide</string>
+</resources>

@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Laboratoire1-HugoMon</string>
+    <string name="your_password">Your Password</string>
+    <string name="your_email">Your Email</string>
+    <string name="show_your_password">Show Your Password</string>
+    <string name="validate_password">VALIDATE PASSWORD</string>
+    <string name="password_and_email_valid">Password and Email Valid</string>
+    <string name="password_or_email_invalid">Password or Email Invalid</string>
 </resources>
